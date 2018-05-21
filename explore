@@ -1,0 +1,29 @@
+LINKS FOR ETHEREUM------------------------------------
+	https://github.com/StephenGrider/EthereumCasts
+	https://bitcoin.org/bitcoin.pdf
+	http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html
+
+	http://remix.ethereum.org ============ code editor for solidity
+
+	https://iancoleman.io/bip39/    ============= memonic conversion
+
+	https://faucet.rinkeby.io/   ================ can get large amount of ether upto 18.75 ether
+
+
+
+
+
+
+What is needed is an electronic payment system based on cryptographic proof instead of trust,
+allowing any two willing parties to transact directly with each other without the need for a trusted
+third party. Transactions that are computationally impractical to reverse would protect sellers
+from fraud, and routine escrow mechanisms could easily be implemented to protect buyers
+
+
+
+Atom - https://atom.io/packages/language-ethereum
+Open the package installation manager in atom and search for 'language-ethereum'.  After installing the package, you might have to manually change the highlighter in the .sol file.  Look for the selector at the bottom right of your editor window.
+Sublime - https://packagecontrol.io/packages/Ethereum
+VSCode - https://github.com/juanfranblanco/vscode-solidity
+Webstorm - https://plugins.jetbrains.com/plugin/9475-intellij-solidity
+VIM - https://github.com/tomlion/vim-solidity
